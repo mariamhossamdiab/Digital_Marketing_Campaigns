@@ -1,5 +1,5 @@
 # digital_marketing_campaigns
-It facilitates the best result for each new marketing.
+ the effectiveness of marketing campaigns using Power BI to determine the best platforms for new customer acquisition
 For example, to get new customers, do we market through Facebook or LinkedIn, 
 taking into consideration all the advantages and disadvantages such as the cost and others?
 ![5](https://github.com/user-attachments/assets/fcad2884-5bd6-4175-b670-8e8e2275e8a2)
