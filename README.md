@@ -2,8 +2,8 @@
  the effectiveness of marketing campaigns using Power BI to determine the best platforms for new customer acquisition
 For example, to get new customers, do we market through Facebook or LinkedIn, 
 taking into consideration all the advantages and disadvantages such as the cost and others?
-![5](https://github.com/user-attachments/assets/fcad2884-5bd6-4175-b670-8e8e2275e8a2)
-![4](https://github.com/user-attachments/assets/261acc75-3a1f-40e0-929f-ba7aefc9e481)
-![3](https://github.com/user-attachments/assets/839b2ad1-d017-4730-962f-c06e75dc277b)
-![2](https://github.com/user-attachments/assets/201a29ac-0cc9-4637-a809-7e1b38d88deb)
-![1](https://github.com/user-attachments/assets/e65fa873-a0b7-4c6e-a18e-6d3b4c37f3d7)
+![Platforms by attributes](https://github.com/user-attachments/assets/0f3f7196-a453-4022-9717-c46ec90b798a)
+![Top 3 companies](https://github.com/user-attachments/assets/6ec9e445-d85d-430b-960b-aaf2484f250f)
+![avg by attributes](https://github.com/user-attachments/assets/71a2349c-a532-4af9-9aa5-72574ab1d327)
+![facebook vs linkedin](https://github.com/user-attachments/assets/8f988f14-a2fb-4fef-9886-eac6ded4d6ed)
+![compaign type](https://github.com/user-attachments/assets/7f891929-3d1d-4c1a-9878-b5752d7ec1f2)
